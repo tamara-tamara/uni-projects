@@ -1,0 +1,9 @@
+
+#ifndef PAIN2_TYPE_OF_CARDS_H
+#define PAIN2_TYPE_OF_CARDS_H
+
+enum Type{
+    WILD_CARD, NUMBER_CARD, ACTION_CARD
+};
+
+#endif //PAIN2_TYPE_OF_CARDS_H
